@@ -60,3 +60,36 @@ header {
 .description ul li i {
     color: aqua;
 }
+
+/* my plans section */
+.my-plans-container {
+    padding: 50px 150px;
+}
+
+.my-plans-container h3 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.plans {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.plans div {
+    text-align: center;
+}
+
+.plans img {
+    width: 90px;
+}
+
+.plans h4 {
+    font-size: 30px;
+}
+
+.plans p {
+    color: #444343;
+    font-size: 20px;
+}
